@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\932101.Nasution.Rafly.lab12.props" />
+</Project>
